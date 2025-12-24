@@ -1,3 +1,16 @@
+# 我的llama.cpp封装工具
+本仓库提供llama.cpp编译后的二进制文件（适配Linux x86_64/macOS ARM），基于 [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) 构建。
+
+## 许可证说明
+- 编译产物（llama.cpp衍生）：遵循原项目的 [MIT License](LICENSE-llama.cpp)；
+- 本仓库的封装脚本/文档（原创部分）：遵循 [你的许可证，如MIT](LICENSE)。
+
+## 原项目版权声明
+Copyright (c) 2023-2024 The GGML Authors
+
+
+
+
 # llama.cpp
 
 ![llama](https://user-images.githubusercontent.com/1991296/230134379-7181e485-c521-4d23-a0d6-f7b3b61ba524.png)
